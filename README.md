@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="thumbnail42.png" width="800">
+</p>
+
 # 🛒 Market Basket Analysis using Apriori (Streamlit Web App)
 
 ## 📌 Project Overview
@@ -106,8 +110,12 @@ The app generates rules like:
 ## 👨‍💻 Author
 
 **Senthamil Selvan**
-🔗 LinkedIn: [www.linkedin.com/in/senthamil45](http://www.linkedin.com/in/senthamil45)
-🌐 Portfolio: https://senthamill.vercel.app/
+
+## 🔗 Links
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/senthamil45)
+- 🌍 [Portfolio](https://senthamill.vercel.app/)
+- 💻 [GitHub](https://github.com/selvan-01/Market_Basket_Analysis_using_APIRIORI.git)
 
 ---
 
